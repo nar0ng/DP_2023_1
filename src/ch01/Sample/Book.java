@@ -6,7 +6,7 @@ public class Book {
     public Book(String name) {
         this.name = name;
     }
-
+    // getName():
     public String getName() {
         return name;
     }
